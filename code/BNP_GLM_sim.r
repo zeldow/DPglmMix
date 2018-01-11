@@ -1,6 +1,5 @@
 library(MASS) # for mvnorm()
 library(mvtnorm)
-setwd('C:/Users/aoganisi/Box Sync/R Packages/DPglmMix/code')
 source("BNP_GLM_FunctionSourceCode.r")
 
 ################################################################################
